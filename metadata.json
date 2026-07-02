@@ -1,0 +1,6 @@
+{
+  "name": "Brawl Cup - Sorteador de Torneio",
+  "description": "Gerador e simulador de chaveamento de torneio com sorteio animado de bolinhas estilo Brawl Stars, contornos grossos de cartoon e controle de pontos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
